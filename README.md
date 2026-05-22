@@ -86,7 +86,7 @@ Escaneie o QR Code com o **Expo Go** no celular para visualizar o app.
 ## 📁 Estrutura do projeto
 
 ```
-quiz-trivialidades/
+
 ├── App.tsx          # Componente principal do app
 ├── package.json     # Dependências do projeto
 ├── tsconfig.json    # Configurações do TypeScript
